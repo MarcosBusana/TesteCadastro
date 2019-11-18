@@ -1,0 +1,8 @@
+C:\Users\marcos.busana\source\repos\Cadastro\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\Users\marcos.busana\source\repos\Cadastro\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\Users\marcos.busana\source\repos\Cadastro\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+C:\Users\marcos.busana\source\repos\Cadastro\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\marcos.busana\source\repos\Cadastro\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\Users\marcos.busana\source\repos\Cadastro\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Users\marcos.busana\source\repos\Cadastro\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\Users\marcos.busana\source\repos\Cadastro\Dominio\obj\Debug\netstandard2.0\Dominio.pdb

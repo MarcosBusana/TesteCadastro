@@ -1,0 +1,11 @@
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\b\Dominio.Testes\Debug\netcoreapp3.0\NUnit3.TestAdapter.dll
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\b\Dominio.Testes\Debug\netcoreapp3.0\NUnit3.TestAdapter.pdb
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\b\Dominio.Testes\Debug\netcoreapp3.0\nunit.engine.netstandard.dll
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\b\Dominio.Testes\Debug\netcoreapp3.0\Dominio.Testes.deps.json
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\b\Dominio.Testes\Debug\netcoreapp3.0\Dominio.Testes.runtimeconfig.json
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\b\Dominio.Testes\Debug\netcoreapp3.0\Dominio.Testes.runtimeconfig.dev.json
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\b\Dominio.Testes\Debug\netcoreapp3.0\Dominio.Testes.dll
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\i\Dominio.Testes\Debug\netcoreapp3.0\Dominio.Testes.AssemblyInfoInputs.cache
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\i\Dominio.Testes\Debug\netcoreapp3.0\Dominio.Testes.AssemblyInfo.cs
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\i\Dominio.Testes\Debug\netcoreapp3.0\Dominio.Testes.csproj.CopyComplete
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\i\Dominio.Testes\Debug\netcoreapp3.0\Dominio.Testes.dll

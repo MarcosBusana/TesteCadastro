@@ -1,0 +1,5 @@
+C:\Users\marcos.busana\source\repos\Cadastro\Infra\bin\Debug\netstandard2.0\Infra.deps.json
+C:\Users\marcos.busana\source\repos\Cadastro\Infra\bin\Debug\netstandard2.0\Infra.dll
+C:\Users\marcos.busana\source\repos\Cadastro\Infra\obj\Debug\netstandard2.0\Infra.AssemblyInfoInputs.cache
+C:\Users\marcos.busana\source\repos\Cadastro\Infra\obj\Debug\netstandard2.0\Infra.AssemblyInfo.cs
+C:\Users\marcos.busana\source\repos\Cadastro\Infra\obj\Debug\netstandard2.0\Infra.csprojAssemblyReference.cache

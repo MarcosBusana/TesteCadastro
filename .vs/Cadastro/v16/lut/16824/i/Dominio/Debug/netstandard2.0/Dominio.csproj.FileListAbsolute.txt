@@ -1,0 +1,6 @@
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\b\Dominio\Debug\netstandard2.0\Dominio.deps.json
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\b\Dominio\Debug\netstandard2.0\Dominio.dll
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\i\Dominio\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\i\Dominio\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\i\Dominio\Debug\netstandard2.0\Dominio.csproj.CopyComplete
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\i\Dominio\Debug\netstandard2.0\Dominio.dll

@@ -1,0 +1,6 @@
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\b\Aplicacao\Debug\netstandard2.0\Aplicacao.deps.json
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\b\Aplicacao\Debug\netstandard2.0\Aplicacao.dll
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\i\Aplicacao\Debug\netstandard2.0\Aplicacao.AssemblyInfoInputs.cache
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\i\Aplicacao\Debug\netstandard2.0\Aplicacao.AssemblyInfo.cs
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\i\Aplicacao\Debug\netstandard2.0\Aplicacao.csproj.CopyComplete
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\i\Aplicacao\Debug\netstandard2.0\Aplicacao.dll

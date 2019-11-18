@@ -1,0 +1,7 @@
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\b\Infra\Debug\netstandard2.0\Infra.deps.json
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\b\Infra\Debug\netstandard2.0\Infra.dll
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\i\Infra\Debug\netstandard2.0\Infra.AssemblyInfoInputs.cache
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\i\Infra\Debug\netstandard2.0\Infra.AssemblyInfo.cs
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\i\Infra\Debug\netstandard2.0\Infra.csproj.CopyComplete
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\i\Infra\Debug\netstandard2.0\Infra.dll
+C:\Users\marcos.busana\source\repos\Cadastro\.vs\Cadastro\v16\lut\0\i\Infra\Debug\netstandard2.0\Infra.csprojAssemblyReference.cache
