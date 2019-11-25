@@ -4,10 +4,10 @@ using System.Threading.Tasks;
 
 namespace Aplicacao.Empresas
 {
-    interface IEmpresaService
+    public interface IEmpresaService
     {
-        Task<Guid> CriarEmpresa(EmpresaRequest empresaRequest);
-        Task<Guid> AlterarEmpresa(EmpresaRequest empresaRequest);
+        Guid CriarEmpresa(EmpresaRequest empresaRequest);
+        Guid AlterarEmpresa(EmpresaRequest empresaRequest);
         void ExcluirEmpresa(Guid empresId);
         Task<IList<EmpresaResponse>> BuscarEmpres(EmpresaFiltroRequest filtroRequest);
 
