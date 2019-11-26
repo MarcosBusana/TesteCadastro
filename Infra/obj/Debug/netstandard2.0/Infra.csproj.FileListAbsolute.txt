@@ -9,3 +9,14 @@ C:\Users\marcos.busana\source\repos\Cadastro\Infra\bin\Debug\netstandard2.0\Domi
 C:\Users\marcos.busana\source\repos\Cadastro\Infra\obj\Debug\netstandard2.0\Infra.csproj.CopyComplete
 C:\Users\marcos.busana\source\repos\Cadastro\Infra\obj\Debug\netstandard2.0\Infra.dll
 C:\Users\marcos.busana\source\repos\Cadastro\Infra\obj\Debug\netstandard2.0\Infra.pdb
+C:\Users\marcos.busana\source\repos\TesteCadastro\Infra\bin\Debug\netstandard2.0\Infra.deps.json
+C:\Users\marcos.busana\source\repos\TesteCadastro\Infra\bin\Debug\netstandard2.0\Infra.dll
+C:\Users\marcos.busana\source\repos\TesteCadastro\Infra\bin\Debug\netstandard2.0\Infra.pdb
+C:\Users\marcos.busana\source\repos\TesteCadastro\Infra\bin\Debug\netstandard2.0\Dominio.dll
+C:\Users\marcos.busana\source\repos\TesteCadastro\Infra\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Users\marcos.busana\source\repos\TesteCadastro\Infra\obj\Debug\netstandard2.0\Infra.csprojAssemblyReference.cache
+C:\Users\marcos.busana\source\repos\TesteCadastro\Infra\obj\Debug\netstandard2.0\Infra.AssemblyInfoInputs.cache
+C:\Users\marcos.busana\source\repos\TesteCadastro\Infra\obj\Debug\netstandard2.0\Infra.AssemblyInfo.cs
+C:\Users\marcos.busana\source\repos\TesteCadastro\Infra\obj\Debug\netstandard2.0\Infra.csproj.CopyComplete
+C:\Users\marcos.busana\source\repos\TesteCadastro\Infra\obj\Debug\netstandard2.0\Infra.dll
+C:\Users\marcos.busana\source\repos\TesteCadastro\Infra\obj\Debug\netstandard2.0\Infra.pdb

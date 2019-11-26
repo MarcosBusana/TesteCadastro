@@ -2,9 +2,9 @@
 using Dominio.Empresas;
 using Hbsis.Wms.Infra.Repositorios;
 using Infra.Data;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using System;
 
 namespace Aplicacao
 {

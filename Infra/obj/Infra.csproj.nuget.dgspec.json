@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marcos.busana\\source\\repos\\Cadastro\\Infra\\Infra.csproj": {}
+    "C:\\Users\\marcos.busana\\source\\repos\\TesteCadastro\\Infra\\Infra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marcos.busana\\source\\repos\\Cadastro\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\marcos.busana\\source\\repos\\TesteCadastro\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marcos.busana\\source\\repos\\Cadastro\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\marcos.busana\\source\\repos\\TesteCadastro\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\marcos.busana\\source\\repos\\Cadastro\\Dominio\\Dominio.csproj",
+        "projectPath": "C:\\Users\\marcos.busana\\source\\repos\\TesteCadastro\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\marcos.busana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marcos.busana\\source\\repos\\Cadastro\\Dominio\\obj\\",
+        "outputPath": "C:\\Users\\marcos.busana\\source\\repos\\TesteCadastro\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\marcos.busana\\source\\repos\\Cadastro\\Infra\\Infra.csproj": {
+    "C:\\Users\\marcos.busana\\source\\repos\\TesteCadastro\\Infra\\Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marcos.busana\\source\\repos\\Cadastro\\Infra\\Infra.csproj",
+        "projectUniqueName": "C:\\Users\\marcos.busana\\source\\repos\\TesteCadastro\\Infra\\Infra.csproj",
         "projectName": "Infra",
-        "projectPath": "C:\\Users\\marcos.busana\\source\\repos\\Cadastro\\Infra\\Infra.csproj",
+        "projectPath": "C:\\Users\\marcos.busana\\source\\repos\\TesteCadastro\\Infra\\Infra.csproj",
         "packagesPath": "C:\\Users\\marcos.busana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marcos.busana\\source\\repos\\Cadastro\\Infra\\obj\\",
+        "outputPath": "C:\\Users\\marcos.busana\\source\\repos\\TesteCadastro\\Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -92,8 +92,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\marcos.busana\\source\\repos\\Cadastro\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\marcos.busana\\source\\repos\\Cadastro\\Dominio\\Dominio.csproj"
+              "C:\\Users\\marcos.busana\\source\\repos\\TesteCadastro\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\marcos.busana\\source\\repos\\TesteCadastro\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -112,6 +112,10 @@
               "version": "[6.3.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[2.2.6, )"
             },

@@ -11,3 +11,16 @@ C:\Users\marcos.busana\source\repos\Cadastro\Aplicacao\bin\Debug\netstandard2.0\
 C:\Users\marcos.busana\source\repos\Cadastro\Aplicacao\obj\Debug\netstandard2.0\Aplicacao.csproj.CopyComplete
 C:\Users\marcos.busana\source\repos\Cadastro\Aplicacao\obj\Debug\netstandard2.0\Aplicacao.dll
 C:\Users\marcos.busana\source\repos\Cadastro\Aplicacao\obj\Debug\netstandard2.0\Aplicacao.pdb
+C:\Users\marcos.busana\source\repos\TesteCadastro\Aplicacao\bin\Debug\netstandard2.0\Aplicacao.deps.json
+C:\Users\marcos.busana\source\repos\TesteCadastro\Aplicacao\bin\Debug\netstandard2.0\Aplicacao.dll
+C:\Users\marcos.busana\source\repos\TesteCadastro\Aplicacao\bin\Debug\netstandard2.0\Aplicacao.pdb
+C:\Users\marcos.busana\source\repos\TesteCadastro\Aplicacao\bin\Debug\netstandard2.0\Dominio.dll
+C:\Users\marcos.busana\source\repos\TesteCadastro\Aplicacao\bin\Debug\netstandard2.0\Infra.dll
+C:\Users\marcos.busana\source\repos\TesteCadastro\Aplicacao\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Users\marcos.busana\source\repos\TesteCadastro\Aplicacao\bin\Debug\netstandard2.0\Infra.pdb
+C:\Users\marcos.busana\source\repos\TesteCadastro\Aplicacao\obj\Debug\netstandard2.0\Aplicacao.csprojAssemblyReference.cache
+C:\Users\marcos.busana\source\repos\TesteCadastro\Aplicacao\obj\Debug\netstandard2.0\Aplicacao.AssemblyInfoInputs.cache
+C:\Users\marcos.busana\source\repos\TesteCadastro\Aplicacao\obj\Debug\netstandard2.0\Aplicacao.AssemblyInfo.cs
+C:\Users\marcos.busana\source\repos\TesteCadastro\Aplicacao\obj\Debug\netstandard2.0\Aplicacao.csproj.CopyComplete
+C:\Users\marcos.busana\source\repos\TesteCadastro\Aplicacao\obj\Debug\netstandard2.0\Aplicacao.dll
+C:\Users\marcos.busana\source\repos\TesteCadastro\Aplicacao\obj\Debug\netstandard2.0\Aplicacao.pdb

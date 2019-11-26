@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marcos.busana\\source\\repos\\Cadastro\\Dominio\\Dominio.csproj": {}
+    "C:\\Users\\marcos.busana\\source\\repos\\TesteCadastro\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marcos.busana\\source\\repos\\Cadastro\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\marcos.busana\\source\\repos\\TesteCadastro\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marcos.busana\\source\\repos\\Cadastro\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\marcos.busana\\source\\repos\\TesteCadastro\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\marcos.busana\\source\\repos\\Cadastro\\Dominio\\Dominio.csproj",
+        "projectPath": "C:\\Users\\marcos.busana\\source\\repos\\TesteCadastro\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\marcos.busana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marcos.busana\\source\\repos\\Cadastro\\Dominio\\obj\\",
+        "outputPath": "C:\\Users\\marcos.busana\\source\\repos\\TesteCadastro\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
